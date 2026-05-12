@@ -1,0 +1,13 @@
+# Savage Attacker
+
+*Origin Feat*
+
+You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
+
+# Skilled
+
+*Origin Feat*
+
+You gain proficiency in any combination of three skills or tools of your choice.
+
+***Repeatable.*** You can take this feat more than once.
