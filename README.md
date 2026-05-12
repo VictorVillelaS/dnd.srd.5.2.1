@@ -3,7 +3,7 @@
 
 ---
 
-View the [Changelog](https://github.com/OldManUmby/dnd.srd.5.2/blob/master/changelog.md) | View the previous [D&D 2014 SRD v5.1](https://github.com/oldmanumby/dnd.srd.5.1)
+View the [Changelog](https://github.com/oldmanumby/dnd.srd.5.2/blob/main/changelog.md) | View the previous [D&D 2014 SRD v5.1](https://github.com/oldmanumby/dnd.srd.5.1)
 
 # REorganized. REpublished. REmastered!
 
