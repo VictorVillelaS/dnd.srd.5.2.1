@@ -1,5 +1,5 @@
 
-![D&D Logo](SRD_reMasteered.png)
+![D&D Logo](SRD_reMastered.png)
 
 ---
 
