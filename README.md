@@ -3,7 +3,7 @@
 
 ---
 
-View the [Changelog](https://github.com/oldmanumby/dnd.srd.5.2/blob/main/changelog.md) | View the previous [D&D 2014 SRD v5.1](https://github.com/oldmanumby/dnd.srd.5.1)
+View the [Changelog](https://github.com/oldmanumby/dnd.srd.5.2.1/blob/main/changelog.md) | View the previous [D&D 2014 SRD v5.1](https://github.com/oldmanumby/dnd.srd.5.1)
 
 # REorganized. REpublished. REmastered!
 
@@ -51,4 +51,4 @@ Visit [Josh Plunket's YouTube Channel](https://www.youtube.com/c/JoshPlunkett/vi
 <details>
  <summary>Discussions & Issues</summary>
 
-Feel free to visit our [discussion](https://github.com/OldManUmby/dnd.srd.5.2/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/dnd.srd.5.2/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/dnd.srd.5.2/pulls).
+Feel free to visit our [discussion](https://github.com/OldManUmby/dnd.srd.5.2.1/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/OldManUmby/dnd.srd.5.2.1/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/dnd.srd.5.2.1/pulls).
