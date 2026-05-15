@@ -1,13 +1,13 @@
 
-![D&D Logo](RE&.logo.png)
+![D&D Logo](SRD_reMasteered.png)
 
 ---
 
-# REorganized. REpublished. REmastered!
+# D&D SRD v5.2.1 REorganized. REpublished. REmastered!
 
 For additional information and other REmastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
-### What is D&D 5E SRD REmastered?
+### What is a REmastered SRD?
 
 This is an adaptation of the **Dungeons & Dragons 5th Edition (2024) SRD v5.2.1** converted to Markdown (.MD) for easy export to other publishing formats and utilized in your own 5E projects. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
 
