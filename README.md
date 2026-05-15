@@ -9,9 +9,7 @@ For additional information and other REmastered SRDs, please visit the [SRD Hub]
 
 ### What is a REmastered SRD?
 
-This is an adaptation of the **Dungeons & Dragons 5th Edition (2024) SRD v5.2.1** converted to Markdown (.MD) for easy export to other publishing formats and utilized in your own 5E projects. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
-
-**The D&D Systems Reference Document (SRD)** contains guidelines for publishing your own Dungeons & Dragons content under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”). The Wizard's OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to compare the programs.
+This material contains a markdown (.md) adaptation of the publisher's original .PDF documentation (a.k.a SRD) to use and/or export in your own projects via the publisher's guidelines and game license, all contained within the material. This material does not contain any content of a proprietary nature or identified as product identity. Please report any issues or discrepancies of the converted material; see **REport & REfork** below. 
 
 [Download](https://github.com/oldmanumby/dnd.srd.5.2.1/archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
 
@@ -46,6 +44,8 @@ Visit [Josh Plunket's Website](https://obsidianttrpgtutorials.com) to learn more
 </details>
 
 <details>
- <summary>Discussions & Issues</summary>
+ <summary>REport & REfork</summary>
 
 Please **REport** any [issues](https://github.com/OldManUmby/dnd.srd.5.2.1/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/OldManUmby/dnd.srd.5.2.1/pulls).
+
+Please **REport** any [issues](/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](pulls).
