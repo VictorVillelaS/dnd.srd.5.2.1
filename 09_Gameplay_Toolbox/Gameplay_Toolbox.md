@@ -235,11 +235,11 @@ Whenever the characters encounter something that is supernaturally frightful, us
 
 **Sample Fear DCs**
 
-| **Example**                                                  | **Save DC** |
-| ------------------------------------------------------------ | ----------- |
-| When the characters open a sarcophagus, a harmless yet terrifying apparition appears. | 10          |
+| **Example**                                                                                                                                 | **Save DC** |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| When the characters open a sarcophagus, a harmless yet terrifying apparition appears.                                                       | 10          |
 | A character triggers a magical trap that creates an illusory manifestation of that character's worst fears, visible only to that character. | 15          |
-| A portal to the Abyss opens, revealing a nightmarish realm of torment and slaughter. | 20          |
+| A portal to the Abyss opens, revealing a nightmarish realm of torment and slaughter.                                                        | 20          |
 
 Typically, a Frightened creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -259,11 +259,11 @@ The Sample Mental Stress Effects table provides a few examples of such effects, 
 
 **Sample Mental Stress Effects**
 
-| **Example**                                                  | **Save DC** | **Psychic Damage** |
-| ------------------------------------------------------------ | ----------- | ------------------ |
+| **Example**                                                                                         | **Save DC** | **Psychic Damage** |
+| --------------------------------------------------------------------------------------------------- | ----------- | ------------------ |
 | A character ingests a hallucinogenic substance that distorts the character's perception of reality. | 10          | 1d6                |
-| A character touches a fiendish idol that tears at the character's mind, threatening to shatter it. | 15          | 3d6                |
-| A magical trap flings a character into the Far Realm until the end of that character's next turn. | 20          | 9d6                |
+| A character touches a fiendish idol that tears at the character's mind, threatening to shatter it.  | 15          | 3d6                |
+| A magical trap flings a character into the Far Realm until the end of that character's next turn.   | 20          | 9d6                |
 
 ### Prolonged Effects
 

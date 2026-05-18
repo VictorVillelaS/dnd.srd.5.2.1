@@ -20,15 +20,15 @@ This magic ammunition is meant to slay creatures of a particular type, which the
 
 After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 
-| **1d100** | **Creature Type** |      | **1d100** | **Creature Type** |
-| --------- | ----------------- | ---- | --------- | ----------------- |
-| 01-10     | Aberrations       |      | 51-60     | Fey               |
-| 11-15     | Beasts            |      | 61-70     | Fiends            |
-| 16-20     | Celestials        |      | 71-75     | Giants            |
-| 21-25     | Constructs        |      | 76-80     | Monstrosities     |
-| 26-35     | Dragons           |      | 81-85     | Oozes             |
-| 36-45     | Elementals        |      | 86-90     | Plants            |
-| 46-50     | Humanoids         |      | 91-00     | Undead            |
+| **1d100** | **Creature Type** |     | **1d100** | **Creature Type** |
+| --------- | ----------------- | --- | --------- | ----------------- |
+| 01-10     | Aberrations       |     | 51-60     | Fey               |
+| 11-15     | Beasts            |     | 61-70     | Fiends            |
+| 16-20     | Celestials        |     | 71-75     | Giants            |
+| 21-25     | Constructs        |     | 76-80     | Monstrosities     |
+| 26-35     | Dragons           |     | 81-85     | Oozes             |
+| 36-45     | Elementals        |     | 86-90     | Plants            |
+| 46-50     | Humanoids         |     | 91-00     | Undead            |
 
 # Amulet of Health
 
@@ -48,15 +48,15 @@ While wearing this amulet, you can't be targeted by Divination spells or perceiv
 
 While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast*Plane Shift* . On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
 
-| **1d100** | **Creature Type** |      | **1d100** | **Creature Type** |
-| --------- | ----------------- | ---- | --------- | ----------------- |
-| 01-10     | Aberrations       |      | 51-60     | Fey               |
-| 11-15     | Beasts            |      | 61-70     | Fiends            |
-| 16-20     | Celestials        |      | 71-75     | Giants            |
-| 21-25     | Constructs        |      | 76-80     | Monstrosities     |
-| 26-35     | Dragons           |      | 81-85     | Oozes             |
-| 36-45     | Elementals        |      | 86-90     | Plants            |
-| 46-50     | Humanoids         |      | 91-00     | Undead            |
+| **1d100** | **Creature Type** |     | **1d100** | **Creature Type** |
+| --------- | ----------------- | --- | --------- | ----------------- |
+| 01-10     | Aberrations       |     | 51-60     | Fey               |
+| 11-15     | Beasts            |     | 61-70     | Fiends            |
+| 16-20     | Celestials        |     | 71-75     | Giants            |
+| 21-25     | Constructs        |     | 76-80     | Monstrosities     |
+| 26-35     | Dragons           |     | 81-85     | Oozes             |
+| 36-45     | Elementals        |     | 86-90     | Plants            |
+| 46-50     | Humanoids         |     | 91-00     | Undead            |
 
 # Animated Shield
 
@@ -80,18 +80,18 @@ A creature in the compartment can take a Utilize action to move as many as two o
 
 **Apparatus of the Crab Levers**
 
-| **Lever** | **Up**                                                       | **Down**                                                     |
-| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1         | Legs extend, allowing the apparatus to walk and swim.        | Legs retract, reducing the apparatus's Speed and Swim Speed to 0 and making it unable to benefit from bonuses to speed. |
-| 2         | Forward window shutter opens.                                | Forward window shutter closes.                               |
-| 3         | Side window shutters open (two per side).                    | Side window shutters close (two per side).                   |
-| 4         | Two claws extend from the front side of the apparatus.       | The claws retract.                                           |
+| **Lever** | **Up**                                                                                                         | **Down**                                                                                                                                 |
+| --------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Legs extend, allowing the apparatus to walk and swim.                                                          | Legs retract, reducing the apparatus's Speed and Swim Speed to 0 and making it unable to benefit from bonuses to speed.                  |
+| 2         | Forward window shutter opens.                                                                                  | Forward window shutter closes.                                                                                                           |
+| 3         | Side window shutters open (two per side).                                                                      | Side window shutters close (two per side).                                                                                               |
+| 4         | Two claws extend from the front side of the apparatus.                                                         | The claws retract.                                                                                                                       |
 | 5         | Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* 7 (2d6) Bludgeoning damage. | Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* The target has the Grappled condition (escape DC 15). |
-| 6         | The apparatus walks or swims forward provided its legs are extended. | The apparatus walks or swims backward provided its legs are extended. |
-| 7         | The apparatus turns 90 degrees counterclockwise provided its legs are extended. | The apparatus turns 90 degrees clockwise provided its legs are extended. |
-| 8         | Eyelike fixtures emit Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. | The light turns off.                                         |
-| 9         | The apparatus sinks up to 20 feet if it's in liquid.         | The apparatus rises up to 20 feet if it's in liquid.         |
-| 10        | The rear hatch unseals and opens.                            | The rear hatch closes and seals.                             |
+| 6         | The apparatus walks or swims forward provided its legs are extended.                                           | The apparatus walks or swims backward provided its legs are extended.                                                                    |
+| 7         | The apparatus turns 90 degrees counterclockwise provided its legs are extended.                                | The apparatus turns 90 degrees clockwise provided its legs are extended.                                                                 |
+| 8         | Eyelike fixtures emit Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.                | The light turns off.                                                                                                                     |
+| 9         | The apparatus sinks up to 20 feet if it's in liquid.                                                           | The apparatus rises up to 20 feet if it's in liquid.                                                                                     |
+| 10        | The rear hatch unseals and opens.                                                                              | The rear hatch closes and seals.                                                                                                         |
 
 # Armor, +1, +2, or +3
 
@@ -113,13 +113,13 @@ You have Resistance to Bludgeoning, Piercing, and Slashing damage while you wear
 
 You have Resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
 
-| **1d10** | **Damage Type** |      | **1d10** | **Damage Type** |
-| -------- | --------------- | ---- | -------- | --------------- |
-| 1        | Acid            |      | 6        | Necrotic        |
-| 2        | Cold            |      | 7        | Poison          |
-| 3        | Fire            |      | 8        | Psychic         |
-| 4        | Force           |      | 9        | Radiant         |
-| 5        | Lightning       |      | 10       | Thunder         |
+| **1d10** | **Damage Type** |     | **1d10** | **Damage Type** |
+| -------- | --------------- | --- | -------- | --------------- |
+| 1        | Acid            |     | 6        | Necrotic        |
+| 2        | Cold            |     | 7        | Poison          |
+| 3        | Fire            |     | 8        | Psychic         |
+| 4        | Force           |     | 9        | Radiant         |
+| 5        | Lightning       |     | 10       | Thunder         |
 
 # Armor of Vulnerability
 
@@ -147,20 +147,20 @@ If you dump one or more beans out of the bag, they explode in a 10-foot-radius S
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean disappears as it produces an effect 1 minute later from the ground where it was planted. The DM can choose an effect from the following table or determine it randomly.
 
-| **1d100** | **Effect**                                                   |
-| --------- | ------------------------------------------------------------ |
-| 01        | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour. |
-| 02-10     | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (DM's choice) 30 feet into the air for 1d4 minutes. |
-| 11-20     | A **Treant** sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good. |
+| **1d100** | **Effect**                                                                                                                                                                                                                                                                                                                                                               |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01        | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour.                                                                             |
+| 02-10     | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (DM's choice) 30 feet into the air for 1d4 minutes.                                                                                                                                                                                                                                       |
+| 11-20     | A **Treant** sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good.                                                                                                                                                                                                                                             |
 | 21-30     | An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
-| 31-40     | A campfire with green flames springs forth and burns for 24 hours or until it is extinguished. |
-| 41-50     | Three **Shrieker Fungi** sprout.                             |
-| 51-60     | 1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the DM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke. |
-| 61-70     | A hungry **Bulette** burrows up and attacks.                 |
-| 71-80     | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days. |
-| 81-90     | A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion. |
-| 91-95     | A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a **Mummy** , a **Mummy Lord** , or some other Undead of the DM's choice. Its sarcophagus contains treasure of the DM's choice. |
-| 96-00     | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a cloud giant's castle, or another plane of existence. |
+| 31-40     | A campfire with green flames springs forth and burns for 24 hours or until it is extinguished.                                                                                                                                                                                                                                                                           |
+| 41-50     | Three **Shrieker Fungi** sprout.                                                                                                                                                                                                                                                                                                                                         |
+| 51-60     | 1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the DM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke.                                                                                             |
+| 61-70     | A hungry **Bulette** burrows up and attacks.                                                                                                                                                                                                                                                                                                                             |
+| 71-80     | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                                                                                                                                      |
+| 81-90     | A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion.                           |
+| 91-95     | A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a **Mummy** , a **Mummy Lord** , or some other Undead of the DM's choice. Its sarcophagus contains treasure of the DM's choice.                                                                                                                                                |
+| 96-00     | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a cloud giant's castle, or another plane of existence.                                                                                                                                                                                   |
 
 # Bag of Devouring
 
@@ -200,34 +200,34 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 Table: Bag of Tricks (Gray) - Random Creature
 
-| **1d8** | **Creature** |      | **1d8** | **Creature** |
-| ------- | ------------ | ---- | ------- | ------------ |
-| 1       | Weasel       |      | 5       | Panther      |
-| 2       | Giant Rat    |      | 6       | Giant Badger |
-| 3       | Badger       |      | 7       | Dire Wolf    |
-| 4       | Boar         |      | 8       | Giant Elk    |
+| **1d8** | **Creature** |     | **1d8** | **Creature** |
+| ------- | ------------ | --- | ------- | ------------ |
+| 1       | Weasel       |     | 5       | Panther      |
+| 2       | Giant Rat    |     | 6       | Giant Badger |
+| 3       | Badger       |     | 7       | Dire Wolf    |
+| 4       | Boar         |     | 8       | Giant Elk    |
 
 **Rust Bag of Tricks**
 
 Table: Bag of Tricks (Rust) - Random Creature
 
-| **1d8** | **Creature** |      | **1d8** | **Creature** |
-| ------- | ------------ | ---- | ------- | ------------ |
-| 1       | Rat          |      | 5       | Giant Goat   |
-| 2       | Owl          |      | 6       | Giant Boar   |
-| 3       | Mastiff      |      | 7       | Lion         |
-| 4       | Goat         |      | 8       | Brown Bear   |
+| **1d8** | **Creature** |     | **1d8** | **Creature** |
+| ------- | ------------ | --- | ------- | ------------ |
+| 1       | Rat          |     | 5       | Giant Goat   |
+| 2       | Owl          |     | 6       | Giant Boar   |
+| 3       | Mastiff      |     | 7       | Lion         |
+| 4       | Goat         |     | 8       | Brown Bear   |
 
 **Tan Bag of Tricks**
 
 Table: Bag of Tricks (Tan) - Random Creature
 
-| **1d8** | **Creature** |      | **1d8** | **Creature** |
-| ------- | ------------ | ---- | ------- | ------------ |
-| 1       | Jackal       |      | 5       | Black Bear   |
-| 2       | Ape          |      | 6       | Giant Weasel |
-| 3       | Baboon       |      | 7       | Giant Hyena  |
-| 4       | Axe Beak     |      | 8       | Tiger        |
+| **1d8** | **Creature** |     | **1d8** | **Creature** |
+| ------- | ------------ | --- | ------- | ------------ |
+| 1       | Jackal       |     | 5       | Black Bear   |
+| 2       | Ape          |     | 6       | Giant Weasel |
+| 3       | Baboon       |     | 7       | Giant Hyena  |
+| 4       | Axe Beak     |     | 8       | Tiger        |
 
 # Bead of Force
 
@@ -592,7 +592,7 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 
 Table: Deck of Illusions
 
-| **1d100** | **Illusion***    |
+| **1d100** | **Illusion***     |
 | --------- | ----------------- |
 | 01-03     | Adult Red Dragon  |
 | 04-06     | Archmage          |
@@ -688,13 +688,13 @@ While wearing this armor, you gain a +1 bonus to Armor Class, you have Advantage
 
 Additionally, you can focus your senses as a Magic action to discern the distance and direction to the closest dragon within 30 miles of yourself that is of the same type as the armor. This action can't be used again until the next dawn.
 
-| **Dragon** | **Resistance** |      | **Dragon** | **Resistance** |
-| ---------- | -------------- | ---- | ---------- | -------------- |
-| Black      | Acid           |      | Gold       | Fire           |
-| Blue       | Lightning      |      | Green      | Poison         |
-| Brass      | Fire           |      | Red        | Fire           |
-| Bronze     | Lightning      |      | Silver     | Cold           |
-| Copper     | Acid           |      | White      | Cold           |
+| **Dragon** | **Resistance** |     | **Dragon** | **Resistance** |
+| ---------- | -------------- | --- | ---------- | -------------- |
+| Black      | Acid           |     | Gold       | Fire           |
+| Blue       | Lightning      |     | Green      | Poison         |
+| Brass      | Fire           |     | Red        | Fire           |
+| Bronze     | Lightning      |     | Silver     | Cold           |
+| Copper     | Acid           |     | White      | Cold           |
 
 # Dragon Slayer
 
@@ -758,11 +758,11 @@ When you take a Magic action to remove the stopper of this painted brass bottle,
 
 The first time the bottle is opened, the GM rolls on the following table to determine what happens.
 
-| **1d10** | **Effect**                                                   |
-| -------- | ------------------------------------------------------------ |
-| 1        | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic. |
+| **1d10** | **Effect**                                                                                                                                                                                                                                                                                                                                                             |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                                          |
 | 2-9      | The efreeti understands your languages and obeys your commands for 1 hour, after which it returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
-| 10       | The efreeti understands your languages and can cast *Wish* once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic. |
+| 10       | The efreeti understands your languages and can cast *Wish* once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                        |
 
 # Elemental Gem
 
@@ -1073,19 +1073,19 @@ This pointed hat has the following properties.
 
 Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 
-| **1d100** | **Effect**                                                   |
-| --------- | ------------------------------------------------------------ |
+| **1d100** | **Effect**                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-50     | You cast a random spell determined by rolling 1d10: on a **1** , *Enlarge/Reduce* (enlarge effect); on a **2** , *Enlarge/Reduce* (reduce effect); on a **3** , *Faerie Fire* ; on a **4** , *Fireball* ; on a **5** , *Gust of Wind* ; on a **6** , *Invisibility* (cast on yourself); on a **7** , *Lightning Bolt* ; on an **8** , *Phantasmal Force* ; on a **9** , *Polymorph* ; on a **10** , *Stinking Cloud* . |
-| 51-55     | You have the Stunned condition until the end of your next turn, believing something awesome just happened. |
-| 56-60     | A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute. |
-| 61-65     | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1** , a vial of Acid; on a **2** , a flask of Alchemist's Fire; on a **3** , a Crowbar; on a **4** , a lit Torch. |
-| 66-70     | You suffer a bout of "magic sickness" and have the Poisoned condition for 1 hour. |
-| 71-75     | You have the Petrified condition until the end of your next turn. |
-| 76-80     | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1** , a Dagger; on a **2** , a Rope with a Grappling Hook tied to one end; on a **3** , a bag of Caltrops; on a **4** , a gem worth 50 GP. |
-| 81-85     | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a **1** , a **Camel** ; on a **2** , a **Constrictor Snake** ; on a **3** , an **Elephant** ; on a **4** , a **Mule** . |
-| 86-90     | A Hostile **Swarm of Bats** flies out of the hat, occupies your space, and attacks you. |
-| 91-95     | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The DM determines where it leads. |
-| 96-00     | You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a **1-3** , Common; on a **4-5** , Uncommon; on a **6** , Rare. The DM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then. |
+| 51-55     | You have the Stunned condition until the end of your next turn, believing something awesome just happened.                                                                                                                                                                                                                                                                                                             |
+| 56-60     | A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.                                                                                                                                                                                                                                                                                                   |
+| 61-65     | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1** , a vial of Acid; on a **2** , a flask of Alchemist's Fire; on a **3** , a Crowbar; on a **4** , a lit Torch.                                                                                                                                                                                                                |
+| 66-70     | You suffer a bout of "magic sickness" and have the Poisoned condition for 1 hour.                                                                                                                                                                                                                                                                                                                                      |
+| 71-75     | You have the Petrified condition until the end of your next turn.                                                                                                                                                                                                                                                                                                                                                      |
+| 76-80     | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1** , a Dagger; on a **2** , a Rope with a Grappling Hook tied to one end; on a **3** , a bag of Caltrops; on a **4** , a gem worth 50 GP.                                                                                                                                                                                       |
+| 81-85     | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a **1** , a **Camel** ; on a **2** , a **Constrictor Snake** ; on a **3** , an **Elephant** ; on a **4** , a **Mule** .                                            |
+| 86-90     | A Hostile **Swarm of Bats** flies out of the hat, occupies your space, and attacks you.                                                                                                                                                                                                                                                                                                                                |
+| 91-95     | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The DM determines where it leads.                                                                                                                                                                                                      |
+| 96-00     | You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a **1-3** , Common; on a **4-5** , Uncommon; on a **6** , Rare. The DM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.                                                                                                                                                                |
 
 # Headband of Intellect
 
@@ -1404,9 +1404,9 @@ In a similar way, you can take a Magic action and use a second command word to f
 Placing the mirror inside an extradimensional space created by a *Bag of Holding* , *Portable Hole* , or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind Total Cover is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 | Mithral Armor Armor (Any Medium or Heavy, Except Hide Armor), Uncommon | 1d100 (13-Card Deck) | 1d100 (22-Card Deck) | Card  |
-| :----------------------------------------------------------- | :------------------- | :------------------- | :---- |
-| Mithral is a light, flexible metal. Armor made of this       | 65-72                | 74-77                | Skull |
-| substance can be worn under normal clothes. If the           | 73-80                | 78-82                | Star  |
+| :--------------------------------------------------------------------- | :------------------- | :------------------- | :---- |
+| Mithral is a light, flexible metal. Armor made of this                 | 65-72                | 74-77                | Skull |
+| substance can be worn under normal clothes. If the                     | 73-80                | 78-82                | Star  |
 
 # Mysterious Deck
 
@@ -1908,11 +1908,11 @@ Every *Ring of Elemental Command* has the following two properties:
 
 ***Spellcasting.*** The ring has 5 charges and regains 1d4 + 1 expended charges daily at dawn. While wearing the ring, you can cast a spell from it. Choose the spell from the list of available spells based on the Elemental Plane the ring is linked to, as shown in the following table. The table indicates how many charges you must expend to cast the spell, which has a save DC of 18.
 
-| **Plane** | **Spells (Charges)**                                         |
-| --------- | ------------------------------------------------------------ |
-| Air       | *Chain Lightning* (3 charges), *Feather Fall* (0 charges), *Gust of Wind* (2 charges), *Wind Wall* (1 charge) |
-| Earth     | *Earthquake* (5 charges), *Stone Shape* (2 charges), *Stoneskin* (3 charges), *Wall of Stone* (3 charges) |
-| Fire      | *Burning Hands* (1 charge), *Fireball* (2 charges), *Fire Storm* (4 charges), *Wall of Fire* (3 charges) |
+| **Plane** | **Spells (Charges)**                                                                                                                      |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Air       | *Chain Lightning* (3 charges), *Feather Fall* (0 charges), *Gust of Wind* (2 charges), *Wind Wall* (1 charge)                             |
+| Earth     | *Earthquake* (5 charges), *Stone Shape* (2 charges), *Stoneskin* (3 charges), *Wall of Stone* (3 charges)                                 |
+| Fire      | *Burning Hands* (1 charge), *Fireball* (2 charges), *Fire Storm* (4 charges), *Wall of Fire* (3 charges)                                  |
 | Water     | *Create or Destroy Water* (1 charge), *Ice Storm* (2 charges), *Tsunami* (5 charges), *Wall of Ice* (3 charges), *Water Walk* (2 charges) |
 
 # Ring of Evasion
@@ -2143,21 +2143,21 @@ In addition, the robe has 4d4 other patches. The DM chooses the patches or deter
 
 **Table:** Robe of Useful Items - Random Item
 
-| **1d100** | **Patch**                                                    |
-| --------- | ------------------------------------------------------------ |
-| 01-08     | Bag of 100 GP                                                |
-| 09-15     | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 GP |
+| **1d100** | **Patch**                                                                                                                                                                                         |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-08     | Bag of 100 GP                                                                                                                                                                                     |
+| 09-15     | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 GP                                                                                                                                  |
 | 16-22     | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
-| 23-30     | 10 gems worth 100 GP each                                    |
-| 31-44     | Wooden ladder (24 feet long)                                 |
-| 45-51     | **Riding Horse** with a Riding Saddle                        |
-| 52-59     | Open pit (a 10-foot Cube), which you can place on the ground within 10 feet of yourself |
-| 60-68     | 4 *Potions of Healing*                                       |
-| 69-75     | Rowboat (12 feet long)                                       |
-| 76-83     | *Spell Scroll* containing one spell of level 1, 2, or 3 (your choice) |
-| 84-90     | 2 **Mastiffs**                                               |
-| 91-96     | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00     | Portable Ram                                                 |
+| 23-30     | 10 gems worth 100 GP each                                                                                                                                                                         |
+| 31-44     | Wooden ladder (24 feet long)                                                                                                                                                                      |
+| 45-51     | **Riding Horse** with a Riding Saddle                                                                                                                                                             |
+| 52-59     | Open pit (a 10-foot Cube), which you can place on the ground within 10 feet of yourself                                                                                                           |
+| 60-68     | 4 *Potions of Healing*                                                                                                                                                                            |
+| 69-75     | Rowboat (12 feet long)                                                                                                                                                                            |
+| 76-83     | *Spell Scroll* containing one spell of level 1, 2, or 3 (your choice)                                                                                                                             |
+| 84-90     | 2 **Mastiffs**                                                                                                                                                                                    |
+| 91-96     | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
+| 97-00     | Portable Ram                                                                                                                                                                                      |
 
 # Rod of Absorption
 
@@ -2383,10 +2383,10 @@ While in control of the sphere, you can take a Bonus Action to cause it to move 
 
 **Table:** Sphere of Annihilation - Sphere Interactions
 
-| **1d100** | **Result**                                                   |
-| --------- | ------------------------------------------------------------ |
-| 01-50     | The sphere is destroyed.                                     |
-| 51-85     | The sphere moves through the portal or into the extradimensional space. |
+| **1d100** | **Result**                                                                                                                 |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 01-50     | The sphere is destroyed.                                                                                                   |
+| 51-85     | The sphere moves through the portal or into the extradimensional space.                                                    |
 | 86-00     | A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence. |
 
 # Staff of Charming
@@ -2427,10 +2427,10 @@ You have Resistance to Cold damage while you hold this staff.
 
 **Spells.** The staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
-| **Spell**      | **Charge Cost** |      | **Spell**     | **Charge Cost** |
-| -------------- | --------------- | ---- | ------------- | --------------- |
-| *Cone of Cold* | 5               |      | *Ice Storm*   | 4               |
-| *Fog Cloud*    | 1               |      | *Wall of Ice* | 4               |
+| **Spell**      | **Charge Cost** |     | **Spell**     | **Charge Cost** |
+| -------------- | --------------- | --- | ------------- | --------------- |
+| *Cone of Cold* | 5               |     | *Ice Storm*   | 4               |
+| *Fog Cloud*    | 1               |     | *Wall of Ice* | 4               |
 
 **Regaining Charges.** The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff turns to water and is destroyed.
 
@@ -2840,25 +2840,25 @@ This wand has 7 charges. While holding it, you can take a Magic action to expend
 
 **Wand of Wonder Effects**
 
-| **1d100** | **Effect**                                                   |
-| --------- | ------------------------------------------------------------ |
-| 01-20     | You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a **1-2** , *Darkness* ; on a **3-4** , *Faerie Fire* ; on a **5-6** , *Fireball* ; on a **7-8** , *Slow* ; on a **9-10** , *Stinking Cloud* . |
-| 21-25     | Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened. |
-| 26-30     | You cast *Gust of Wind* . The Line created by the spell extends from you to the chosen point of origin. |
-| 31-35     | Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage. |
-| 36-40     | Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured. |
-| 41-45     | A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured. |
-| 46-50     | You cast *L ightning Bolt* . The Line created by the spell extends from you to the chosen point of origin. |
-| 51-55     | The creature closest to the chosen point of origin is enlarged as if you had cast *Enlarge/Reduce* on it. If the target isn't you and can't be affected by that spell, you become the target instead. |
-| 56-60     | A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a **1** , a **Rhinoceros** appears; on a **2** , an **Elephant** appears; and on a **3-4** , a **Rat** appears. |
-| 61-64     | Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute. |
-| 65-68     | An object of the DM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the chosen point of origin, and no larger than 10 feet in any dimension. If there are no such objects in range, nothing happens. |
-| 69-72     | Nothing happens at the chosen point of origin. Instead, you shrink as if you had cast *Enlarge/Reduce* on yourself and remain in that state for 1 minute. |
-| 73-77     | Leaves grow from the creature nearest to the chosen point of origin. Unless they are picked off, the leaves turn brown and fall off after 24 hours. |
-| 78-82     | Nothing happens at the chosen point of origin. Instead, a burst of colorful, shimmering light extends from you in a 30-foot Emanation. Each creature in the area must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success. |
-| 83-87     | Nothing happens at the chosen point of origin. Instead, you cast *Invisibility* on yourself. |
-| 88-92     | Nothing happens at the chosen point of origin. Instead, a stream of 1d4 x 10 gems, each worth 1 GP, shoots from the wand's tip in a Line 30 feet long and 5 feet wide toward the chosen point of origin. Each gem deals 1 Bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the Line. |
-| 93-97     | You cast *Polymorph* , targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a **1** , the new form is a **Black Bear** ; on a **2** , the new form is a **Giant Wasp** ; on a **3-4** , the new form is a **Frog** . |
+| **1d100** | **Effect**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-20     | You cast a spell originating from the chosen point. Roll 1d10 to determine the spell: on a **1-2** , *Darkness* ; on a **3-4** , *Faerie Fire* ; on a **5-6** , *Fireball* ; on a **7-8** , *Slow* ; on a **9-10** , *Stinking Cloud* .                                                                                                                                                                                                                                                                                       |
+| 21-25     | Nothing happens at the chosen point of origin. Instead, you have the Stunned condition until the start of your next turn, believing something awesome just happened.                                                                                                                                                                                                                                                                                                                                                          |
+| 26-30     | You cast *Gust of Wind* . The Line created by the spell extends from you to the chosen point of origin.                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 31-35     | Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 36-40     | Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius Cylinder centered on the chosen point of origin. During that time, the area of effect is Lightly Obscured.                                                                                                                                                                                                                                                                                                                                                   |
+| 41-45     | A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius Cylinder centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is Heavily Obscured.                                                                                                                                                                                                                                                                                                   |
+| 46-50     | You cast *L ightning Bolt* . The Line created by the spell extends from you to the chosen point of origin.                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 51-55     | The creature closest to the chosen point of origin is enlarged as if you had cast *Enlarge/Reduce* on it. If the target isn't you and can't be affected by that spell, you become the target instead.                                                                                                                                                                                                                                                                                                                         |
+| 56-60     | A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a **1** , a **Rhinoceros** appears; on a **2** , an **Elephant** appears; and on a **3-4** , a **Rat** appears.                                                                                                               |
+| 61-64     | Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute.                                                                                                                                                                                                                                                                                          |
+| 65-68     | An object of the DM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the chosen point of origin, and no larger than 10 feet in any dimension. If there are no such objects in range, nothing happens.                                                                                                                                                                                                                                                             |
+| 69-72     | Nothing happens at the chosen point of origin. Instead, you shrink as if you had cast *Enlarge/Reduce* on yourself and remain in that state for 1 minute.                                                                                                                                                                                                                                                                                                                                                                     |
+| 73-77     | Leaves grow from the creature nearest to the chosen point of origin. Unless they are picked off, the leaves turn brown and fall off after 24 hours.                                                                                                                                                                                                                                                                                                                                                                           |
+| 78-82     | Nothing happens at the chosen point of origin. Instead, a burst of colorful, shimmering light extends from you in a 30-foot Emanation. Each creature in the area must succeed on a DC 15 Constitution saving throw or have the Blinded condition for 1 minute. A creature repeats the save at the end of each of its turns, ending the effect on itself on a success.                                                                                                                                                         |
+| 83-87     | Nothing happens at the chosen point of origin. Instead, you cast *Invisibility* on yourself.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 88-92     | Nothing happens at the chosen point of origin. Instead, a stream of 1d4 x 10 gems, each worth 1 GP, shoots from the wand's tip in a Line 30 feet long and 5 feet wide toward the chosen point of origin. Each gem deals 1 Bludgeoning damage, and the total damage of the gems is divided equally among all creatures in the Line.                                                                                                                                                                                            |
+| 93-97     | You cast *Polymorph* , targeting the creature closest to the chosen point of origin. Roll 1d4 to determine the target's new form. On a **1** , the new form is a **Black Bear** ; on a **2** , the new form is a **Giant Wasp** ; on a **3-4** , the new form is a **Frog** .                                                                                                                                                                                                                                                 |
 | 98-100    | The creature closest to the chosen point of origin makes a DC 15 Constitution saving throw. On a failed save, the creature has the Restrained condition and begins to turn to stone. While Restrained in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the Petrified condition instead of the Restrained condition. The petrification lasts until the creature is freed by the *Greater Restoration* spell or similar magic. |
 
 # Weapon, +1, +2, or +3
