@@ -11,7 +11,7 @@ For additional information and other reForged SRDs, please visit the [SRD Hub](h
 
 This material contains a **reMastered, reOrganized, and rePublished** markdown (.md) adaptation of the original .PDF documentation (a.k.a SRD) to use and/or export in your own projects via the publisher's guidelines and game license (all contained within the material). This adaptation does not contain any content of a proprietary nature or identified as product identity. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below. 
 
-To see the entire SRD folder and file, view the [structure.md](../structure.md) file.
+To see the entire SRD folder and file, view the [structure.md](../../structure.md) file.
 
 * [Download](../../archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
 * [NotebookLM](https://notebooklm.google.com/notebook/e976e904-df83-4f60-b8e9-8e0f12ebf441): Feel free to ask a question.

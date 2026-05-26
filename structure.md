@@ -1,3 +1,7 @@
+![SRD-reForged](SRD-reForged.png)
+
+---
+
 # D&D 5E SRD v5.2.1 Folder & File Structure
 
 ```
